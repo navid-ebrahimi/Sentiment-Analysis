@@ -3,7 +3,9 @@
 ---
 author:
 - Navid Ebrahimi, Baktash Ansari
+
 date: 2024-02-06
+
 title: Sentiment-Analysis
 ---
 
@@ -60,7 +62,7 @@ Note: Pay attention that the training and evaluation steps have been done severa
 
 #### Evaluation:
 ![header_img](
-.\images\firstMethod_Evaluation.png)
+https://github.com/navid-ebrahimi/Sentiment-Analysis/blob/main/images/firstMethod_Evaluation.png)
 
 
 ## Actions taken in the second method of the project
@@ -68,7 +70,7 @@ For the scoring part, we first found a data set that is used to analyze positive
 The accuracy and loss of the model can be seen on the train and test data:
 
 ![header_img](
-.\images\secondMethod_Evaluation.png)
+https://github.com/navid-ebrahimi/Sentiment-Analysis/blob/main/images/secondMethod_Evaluation.png)
 
 ![header_img](
-.\images\secondMethod_Evaluation2.png)
+https://github.com/navid-ebrahimi/Sentiment-Analysis/blob/main/images/secondMethod_Evaluation2.png)
