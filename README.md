@@ -1,13 +1,5 @@
 # Sentiment-Analysis
 
----
-author:
-- Navid Ebrahimi, Baktash Ansari
-
-date: 2024-02-06
-
-title: Sentiment-Analysis
----
 
 ## Project Proposal
 
